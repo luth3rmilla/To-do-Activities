@@ -1,0 +1,41 @@
+.ToInput {
+    margin-left: 1%;
+    display: ruby;
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 18 px;
+    word-spacing: 2.0em;
+}
+
+.input {
+    border-style: solid;
+    border-color: #af0a0a;
+    height: 30px;
+    width: 995px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: 18px;
+    background: none;
+    box-sizing: content-box;
+}
+
+.button {
+    margin: 0.7cm;
+    background-color: #af0a0a;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.label {
+    justify-items: flex-end;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+

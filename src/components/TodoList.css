@@ -1,0 +1,33 @@
+.theBox {
+    margin-left: 1.1cm;
+    height: 90px;
+    width: 1035px;
+    background-color: white;
+    border-color: white;
+    list-style-type: none;
+    box-shadow: 20px;
+    justify-content: space-evenly;
+    border-bottom: 2px rgb(56, 56, 55);
+    box-shadow: 0.5px 4px 4px 3px #9b9999;
+}
+
+.spn {
+    position: absolute;
+    justify-content: space-evenly;
+    font-size: 20px;
+    margin-top: 0.7cm;
+    margin-left: 0.2cm;
+}
+
+.bt {
+    margin-top: 0.5cm;
+    margin-right: 0.2cm;
+    float: right;
+    background-color: #af0a0a;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    width: 100px;
+    height: 40px;
+}
